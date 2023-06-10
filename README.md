@@ -30,7 +30,7 @@
 
 ###
 
-<p align="center">Hello, I am <b>rasindu hansika</b>, is an electrical engineering graduate from the <a href="https://uom.lk/">University of Moratuwa</a>.<br> who has successfully transitioned into a career as a software engineer.  <br>They undertook self-directed learning, acquiring skills through intership and various online resources. With a strong and solid foundation in engineering principles, they possess transferable skills such as problem-solving and working with complex systems.<br>
+<p align="center">Hello, I'm <b>Rasindu Hansika</b>.I'm an electrical engineering graduate from the <a href="https://uom.lk/">University of Moratuwa</a>,Sri Lanka.<br> who has successfully transitioned into a career as a software engineer.  <br>They undertook self-directed learning, acquiring skills through intership and various online resources. With a strong and solid foundation in engineering principles, they possess transferable skills such as problem-solving and working with complex systems.<br>
   <br><i>"First, solve the problem. Then, write the code."</i> — <b>John Johnson</b></p>
 
 ###
@@ -92,8 +92,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rasindu-hansika&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rasindu-hansika&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=rasindu-hansika&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" height="200" alt="">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rasindu-hansika&amp;theme=dark&amp;hide_border=false" height="200" alt="">
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasindu-hansika&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" height="200" alt=""> -->
 </div>
 
 ###
