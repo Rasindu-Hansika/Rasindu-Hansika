@@ -30,7 +30,8 @@
 
 ###
 
-<p align="center">Hello, I am rasindu hansika, Engineering graduate from University Of Moratuwa, Sri-Lanka. <br>I'm a passionate self-learner  and a Sofware Engineer.<br>who is obsessed with problem solving and always looking to find patterns which are hidden.<br>"First, solve the problem. Then, write the code." — John Johnson</p>
+<p align="center">Hello, I am <b>rasindu hansika</b>, is an electrical engineering graduate from the <a href="https://uom.lk/">University of Moratuwa</a>.<br> who has successfully transitioned into a career as a software engineer.  <br>They undertook self-directed learning, acquiring skills through intership and various online resources. With a strong and solid foundation in engineering principles, they possess transferable skills such as problem-solving and working with complex systems.<br>
+  <br><i>"First, solve the problem. Then, write the code."</i> — <b>John Johnson</b></p>
 
 ###
 
