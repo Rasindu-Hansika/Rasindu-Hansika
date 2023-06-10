@@ -92,9 +92,9 @@
 ###
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rasindu-hansika&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" height="200" alt="">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rasindu-hansika&amp;theme=dark&amp;hide_border=false" height="200" alt="">
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasindu-hansika&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" height="200" alt=""> -->
+<img src="https://github-readme-stats.vercel.app/api?username=rasindu-hansika&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" height="170" alt="">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rasindu-hansika&amp;theme=dark&amp;hide_border=false" height="170" alt="">
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasindu-hansika&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" height="170" alt=""> -->
 </div>
 
 ###
